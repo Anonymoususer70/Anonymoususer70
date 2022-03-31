@@ -5,7 +5,7 @@ I'm a 17y/o High School student from India. I love coding along with many things
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anonymoususer70&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anonymoususer70&theme=tokyonight&repo=github-readme-stats" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anonymoususer70&theme=tokyonight" />
