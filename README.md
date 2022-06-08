@@ -11,7 +11,7 @@ Web developer
 * ✉️  You can contact me at [opss59332@gmail.com](mailto:opss59332@gmail.com)
 * 🚀  I'm currently working on [Blog Thumbnail Generator](http://blog-thumbnail-generator.netlify.app)
 * 🧠  I'm learning NextJS
-* ⚡  Noob digital artist • Learning Latin 📜 • Physics & Algebra ❤️ • Takes Mythologies as 🍪 • Speed Cuber • Beatboxing 🎧 • Gamer
+* ⚡  Noob digital artist • Learning 3D modelling • Physics & Algebra ❤️ • Takes Mythologies as 🍪 • Speed Cuber • Beatboxing 🎧 • Gamer
 
 <a href="https://www.twitter.com/anonthedev" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/anonthedev?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
