@@ -4,7 +4,7 @@ Hi 👋 My name is Anon
 Web developer
 -------------
 
-17 • Techie 💻 • Frontend developer working with HTML, CSS, JS, React, Tailwind and a bit of Next.
+16 • Techie 💻 • Frontend developer working with HTML, CSS, JS, React, Tailwind and a bit of Next.
 
 * 🌍  I'm based in India
 * 🖥️  See my portfolio at [anonthedev](http://anonthedev.vercel.app)
