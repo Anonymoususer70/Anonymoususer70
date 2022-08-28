@@ -14,7 +14,7 @@ Web developer
 * ⚡  Noob digital artist • Learning 3D modelling • Physics & Algebra ❤️ • Takes Mythologies as 🍪 • Speed Cuber • Beatboxing 🎧 • Gamer
 
 <a href="https://www.twitter.com/anonthedev_2" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/anonthedev?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
+src="https://img.shields.io/twitter/follow/anonthedev_2?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
 /></a>
 ### Skills
 
