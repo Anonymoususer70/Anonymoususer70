@@ -9,9 +9,9 @@ Web developer
 * 🌍  I'm based in India
 * 🖥️  See my portfolio at [anonthedev](http://anonthedev.vercel.app)
 * ✉️  You can contact me at [opss59332@gmail.com](mailto:opss59332@gmail.com)
-* 🚀  I'm currently working on [Blog Thumbnail Generator](http://blog-thumbnail-generator.netlify.app)
-* 🧠  I'm learning NextJS
-* ⚡  Noob digital artist • Learning 3D modelling • Physics & Algebra ❤️ • Takes Mythologies as 🍪 • Speed Cuber • Beatboxing 🎧 • Gamer
+* 🚀  I'm currently working on freelance project [Rush my flight](https://rushmyflight.vercel.app/)
+* 🧠  I'm learning Web3
+* ⚡  Noob illustrator 👨‍🎨 • 3D Artist • Into Viking history 📜 • Gamer • Cuber ❤️
 
 <a href="https://www.twitter.com/anonthedev_2" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/anonthedev_2?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
