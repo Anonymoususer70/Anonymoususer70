@@ -9,7 +9,7 @@ Web developer
 * 🌍  I'm based in India
 * 🖥️  See my portfolio at [anonthedev](http://anonthedev.vercel.app)
 * ✉️  You can contact me at [opss59332@gmail.com](mailto:opss59332@gmail.com)
-* 🚀  I'm currently working on freelance project [YouIfy](https://anon-youify.netlify.app/)
+* 🚀  I'm currently working on a personal project [YouIfy](https://anon-youify.netlify.app/)
 * 🧠  I'm learning Web3
 * ⚡  Noob illustrator 👨‍🎨 • 3D Artist • Into Viking history 📜 • Gamer • Cuber ❤️
 
