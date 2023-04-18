@@ -17,7 +17,7 @@ Web developer
 
 <p align="left">
 <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,git,firebase&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,redux,git,firebase,tailwind,bootstrap,blender&theme=dark&perline=7" />
   </a>
 </p>
 
