@@ -16,7 +16,7 @@ Web developer
 ### Skills
 
 <p align="left">
-[(https://skillicons.dev/icons?i=js,html,css,tailwind,figma,react,next,firebase,vite)](https://github.com/theditiarora)
+[(https://skillicons.dev/icons?i=js,html,css,tailwind,figma,react,next,firebase,vite)](https://github.com/anonthedev)
 </p>
 
 ### Socials
