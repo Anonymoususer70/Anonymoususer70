@@ -7,7 +7,7 @@ Hi 👋 My name is Anon
 * 🖥️  See my portfolio at [anonthedev](http://anonthedev.vercel.app)
 * ✉️  You can contact me at [techwid.pranav@gmail.com](mailto:techwid.pranav@gmail.com)
 * 🚀  I'm currently working on a personal project [YouIfy](https://youify.xyz/)
-* 🧠  Getting back into Cybersecurity & deep diving into cryptography & blockchain
+* 🧠  Dabbling in Cybersecurity & deep diving into cryptography & blockchain
 * ⚡  3D Artist • Into Viking history 📜 • Gamer • Cuber ❤️
 
 ### Skills
