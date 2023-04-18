@@ -4,14 +4,14 @@ Hi 👋 My name is Anon
 Web developer
 -------------
 
-16 • Techie 💻 • Frontend developer working with HTML, CSS, JS, React, Tailwind and a bit of Next.
+17 • Frontend Web developer • Core team soshalsHQ • Blockchain & Cryptography ⛓️ • 3D Artist
 
 * 🌍  I'm based in India
 * 🖥️  See my portfolio at [anonthedev](http://anonthedev.vercel.app)
-* ✉️  You can contact me at [opss59332@gmail.com](mailto:opss59332@gmail.com)
+* ✉️  You can contact me at [techwid.pranav@gmail.com](mailto:techwid.pranav@gmail.com)
 * 🚀  I'm currently working on a personal project [YouIfy](https://youify.xyz/)
-* 🧠  I'm learning Web3
-* ⚡  Noob illustrator 👨‍🎨 • 3D Artist • Into Viking history 📜 • Gamer • Cuber ❤️
+* 🧠  Getting back into Cybersecurity & deep diving into cryptography & blockchain
+* ⚡  3D Artist • Into Viking history 📜 • Gamer • Cuber ❤️
 
 ### Skills
 
