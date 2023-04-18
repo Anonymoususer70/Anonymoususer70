@@ -1,9 +1,6 @@
 Hi 👋 My name is Anon
 =====================
 
-Web developer
--------------
-
 17 • Frontend Web developer • Core team soshalsHQ • Blockchain & Cryptography ⛓️ • 3D Artist
 
 * 🌍  I'm based in India
