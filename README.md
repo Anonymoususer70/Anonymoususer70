@@ -1,14 +1,14 @@
 Hi 👋 My name is Anon
 =====================
 
-17 • Frontend Web developer • Core team soshalsHQ • Blockchain & Cryptography ⛓️ • 3D Artist
+17 • Frontend Web developer • Diving deep into stuff • 3D Artist
 
 * 🌍  I'm based in India
 * 🖥️  See my portfolio at [anonthedev](http://anonthedev.vercel.app)
 * ✉️  You can contact me at [techwid.pranav@gmail.com](mailto:techwid.pranav@gmail.com)
-* 🚀  I'm currently working on a personal project [YouIfy](https://youify.xyz/)
-* 🧠  Dabbling in Cybersecurity & deep diving into cryptography & blockchain
-* ⚡  3D Artist • Into Viking history 📜 • Gamer • Cuber ❤️
+* 🚀  I'm currently working on a personal project [youdio](https://youdio.xyz/)
+* 🧠  Dabbling in Computer System Architecture rn
+* ⚡  3D Artist • Into Viking history 📜 • Gamer
 
 ### Skills
 
