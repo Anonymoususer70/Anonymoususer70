@@ -1,7 +1,7 @@
 Hi 👋 My name is Pranav Kumar aka Anon
 =====================
 
-17 • Frontend Web developer • Diving deep into stuff • 3D Artist
+Frontend Web developer • Diving deep into stuff • 3D Artist
 
 * 🌍  I'm based in India
 * 🖥️  See my portfolio at [anonthedev](http://anonthedev.vercel.app)
