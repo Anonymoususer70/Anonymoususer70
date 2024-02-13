@@ -5,7 +5,6 @@ Frontend Web developer • Diving deep into stuff • 3D Artist
 
 * 🌍  I'm based in India
 * 🖥️  See my portfolio at [anonthedev](http://anonthedev.vercel.app)
-* 🚀  I'm currently working on a personal project [youdio](https://youdio.xyz/)
 * 🧠  Dabbling in Computer System Architecture rn
 
 ### Skills
