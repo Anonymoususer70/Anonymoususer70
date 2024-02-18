@@ -1,4 +1,4 @@
-Hi 👋 My name is Pranav Kumar aka Anon
+Hi 👋 This is Anon 2.0
 =====================
 
 Frontend Web developer • Diving deep into stuff • 3D Artist
